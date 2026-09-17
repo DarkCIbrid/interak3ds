@@ -1,0 +1,4 @@
+repository "Skillmagic/Skillmagic@6872243258519@cloud"
+  path "/"
+    br "/main"
+    co "/main"
